@@ -156,7 +156,7 @@ header h3{
   height: auto;
   
   position: absolute;
-  top: 46vw;
+  top: 47vw;
   left: 0vw;
   z-index: 2;
 }
@@ -378,6 +378,15 @@ img:hover {
 
 #welcome-section h2{
   font-size: 3.5vw;
+}
+  #projects {
+  width: 100%;
+  height: auto;
+  
+  position: absolute;
+  top: 47vw;
+  left: 0vw;
+  z-index: 2;
 }
 
 
